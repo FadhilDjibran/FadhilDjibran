@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 - 🌏 I'm based in Surabaya, **Indonesia**
 
-- 📫 My Email **FadhilDjibran78@gmail.com**
+- 📫 My Email is **FadhilDjibran78@gmail.com**
 
 - ⚡ Fun fact **Selalu Online Discord**
