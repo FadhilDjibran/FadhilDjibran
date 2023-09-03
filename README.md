@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 --> 
 <h1 align="center">Hi 👋, I'm Fadhil Djibran</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasikhand&label=Profile%20views&color=0e75b6&style=flat" alt="nasikhand" /> </p>
-
 - 🌏 I'm based in Surabaya, **Indonesia**
 
 - 📫 My Email is **FadhilDjibran78@gmail.com**
